@@ -1,4 +1,8 @@
-post request:http://localhost:5000/api/user
+Live-Link:https://aims-server.vercel.app/
+<br>
+
+post request:https://aims-server.vercel.app/api/user
+<br>
 
 input:
 {
@@ -8,7 +12,7 @@ input:
 "password": "123456"
 
 }
-
+<br>
 output:
 {
 "success": true,
@@ -24,6 +28,8 @@ output:
 }
 }
 
-get request:http://localhost:5000/api/user
-patch request:http://localhost:5000/api/user/id
-delete request:http://localhost:5000/api/user/id
+<br>
+
+get request:https://aims-server.vercel.app/api/user <br>
+patch request:https://aims-server.vercel.app/api/user/id<br>
+delete request:https://aims-server.vercel.app/api/user/id<br>
